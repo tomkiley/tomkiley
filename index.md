@@ -5,3 +5,6 @@
  
 ### Projects
  * Nothing yet
+
+### Blog 
+  [Blog](blog.md)

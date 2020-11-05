@@ -1,1 +1,24 @@
+name: Tom Kiley
 theme: jekyll-theme-minimal
+
+footer-links:
+  email:
+  github: tomkiley/tomkiley
+  linkedin: https://www.linkedin.com/in/tomkiley/
+  rss: yes 
+
+url: www.kiley.us
+
+permalink: /:title/
+
+gems:
+  - jekyll-sitemap 
+  - jekyll-feed 
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - default.md
+  - _config.yml
+  - CNAME
